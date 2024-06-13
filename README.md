@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](Bottom_up.svg)
 ### Welcome 🧙 
 
 I capture an idea, turn chicory into code, automate processes, constantly improving my skills.
