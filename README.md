@@ -1,4 +1,5 @@
-### Welcome 🧙 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kirillkukharev)  
+![](assets/Bottom_up.svg)
+### Welcome 🧙 
 
 I capture an idea, turn chicory into code, automate processes, constantly improving my skills.
 
